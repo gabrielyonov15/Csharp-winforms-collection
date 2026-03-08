@@ -1,0 +1,17 @@
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\IceCreamOrderingSystem.exe
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\IceCreamOrderingSystem.deps.json
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\IceCreamOrderingSystem.runtimeconfig.json
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\IceCreamOrderingSystem.dll
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\IceCreamOrderingSystem.pdb
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.frmIceCreamOrder.resources
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.sourcelink.json
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.dll
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\IceCreamOrderingSystem.dll
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.pdb
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\IceCreamOrderingSystem.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\IceCreamOrderingSystem.dll
